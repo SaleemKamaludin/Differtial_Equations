@@ -1,4 +1,4 @@
-# Differtial_Equations
+# Differential_Equations
 
 In here you'll have access to some notes and solutions from the 2017 version and older version of the course.
 
